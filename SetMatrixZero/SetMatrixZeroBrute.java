@@ -1,6 +1,7 @@
+package SetMatrixZero;
 
 import java.util.*;
-
+// Coding to practic ethe problems 
 public class SetMatrixZeroBrute {
     static void markRow(ArrayList<ArrayList<Integer>> matrix, int n, int m, int i) {
         // set all non-zero elements as -1 in the row i:
