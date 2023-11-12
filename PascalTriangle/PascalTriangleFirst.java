@@ -26,3 +26,7 @@ class PascalTriangleFirst {
     }
     
 }
+
+//Time Complexity: O(c), where c = given column number.
+//Reason: We are running a loop for r times, where r is c-1.
+//Space Complexity: O(1) as we are not using any extra space.
